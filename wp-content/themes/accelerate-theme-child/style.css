@@ -88,6 +88,25 @@ div.case-study-images img {
 	margin-bottom: 3.125em;
 	border: 1px solid #dddddd;
 }
+.social-media-navigation ul {
+list-style: none;
+display: table;
+}
+.social-media-navigation li { 
+    display: table-cell; 
+    width: 2em; 
+    height: 2em; 
+    border-radius: 2em; 
+    background-color: black; 
+    vertical-align: middle;
+    text-align: center;
+    margin-right: 10px;
+}
+.social-media-navigation i {
+    color: white;
+}
+
+
 /*END Case Studies*/
 
 /* Media Queries */
