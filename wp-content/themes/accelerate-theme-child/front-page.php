@@ -38,7 +38,7 @@ get_header(); ?>
 					<figure>
 						<?php echo wp_get_attachment_image($image_1, $size); ?>
 					</figure>
-					<h3><?php the_title(); ?>Testing Changes</h3>
+					<h3><?php the_title(); ?></h3>
 				</a>
 			</li>
 			<?php endwhile; // end of the loop. ?>
