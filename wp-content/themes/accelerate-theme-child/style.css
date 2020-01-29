@@ -133,4 +133,9 @@ display: table;
         float: left;
         width: 60%;
     }
+    input#nf-field-4.ninja-forms-field.nf-element {
+        background-color: #45ac9d;
+        float: right;
+    } 
 }
+
